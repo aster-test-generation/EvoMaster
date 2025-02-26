@@ -266,7 +266,7 @@ SUTS = [
     #Sut("ind0", 1, JDK_8),
     #Sut("ind1", 1, JDK_11),
     # REST JVM
-    Sut("familie-ba-sak",1,JDK_17),
+    # Sut("familie-ba-sak",1,JDK_17),
     Sut("pay-publicapi",1,JDK_11),
     Sut("reservations-api", 1, JDK_11),
     Sut("bibliothek", 1, JDK_17),
@@ -279,7 +279,7 @@ SUTS = [
     Sut("catwatch", 1, JDK_8),
     Sut("restcountries", 2, JDK_8),
     Sut("languagetool", 3, JDK_8),
-    Sut("ocvn-rest", 1, JDK_8),
+    # Sut("ocvn-rest", 1, JDK_8),
     Sut("gestaohospital-rest", 1, JDK_8),
     Sut("cwa-verification", 1, JDK_11),
     Sut("genome-nexus", 1, JDK_8),
@@ -288,7 +288,7 @@ SUTS = [
     # GRAPHQL JVM
     Sut("petclinic-graphql", 1, JDK_8),
     Sut("patio-api", 1, JDK_11),
-    Sut("timbuctoo", 1, JDK_11),
+    # Sut("timbuctoo", 1, JDK_11),
     Sut("graphql-ncs", 1, JDK_8),
     Sut("graphql-scs", 1, JDK_8),
     # RPC
